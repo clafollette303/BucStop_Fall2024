@@ -10,3 +10,6 @@
 [submodule "Pong_Main"]
 	path = Pong_Main
 	url = https://github.com/Redacted-Team/4350_002_Fall23_Pong.git
+[submodule "API_Main"]
+	path = API_Main
+	url = https://github.com/Redacted-Team/4350_002_Fall23_APIGateway.git
