@@ -1,6 +1,3 @@
-[submodule "APIGateway_Main"]
-	path = APIGateway_Main
-	url = https://github.com/Redacted-Team/4350_002_Fall23_APIGateway.git
 [submodule "MicroService_Main"]
 	path = MicroService_Main
 	url = https://github.com/Redacted-Team/4350_002_Fall23_MicroService.git
