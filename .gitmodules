@@ -1,0 +1,15 @@
+[submodule "APIGateway_Main"]
+	path = APIGateway_Main
+	url = https://github.com/Redacted-Team/4350_002_Fall23_APIGateway.git
+[submodule "MicroService_Main"]
+	path = MicroService_Main
+	url = https://github.com/Redacted-Team/4350_002_Fall23_MicroService.git
+[submodule "Tetris_Main"]
+	path = Tetris_Main
+	url = https://github.com/Redacted-Team/4350_002_Fall23_Tetris.git
+[submodule "Snake_Main"]
+	path = Snake_Main
+	url = https://github.com/Redacted-Team/4350_002_Fall23_Snake.git
+[submodule "Pong_Main"]
+	path = Pong_Main
+	url = https://github.com/Redacted-Team/4350_002_Fall23_Pong.git
